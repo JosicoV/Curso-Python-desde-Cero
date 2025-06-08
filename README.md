@@ -25,7 +25,7 @@ Cada carpeta contiene sus propios ejemplos y ejercicios.
 
 ## ¿Cómo Empezar?
 
-1.  Clona este repositorio: `git clone https://github.com/JosicoV/Curso-Node.js-desde-Cero.git`
+1.  Clona este repositorio: `git clone https://github.com/JosicoV/Curso-Python-desde-Cero.git`
 2.  Navega a la carpeta del módulo que te interese: `cd nombre-de-la-carpeta`
 3.  Ejecuta el archivo .py del ejercicio: `python nombre-del-archivo.py`. (VS Code permite la ejecución directa pulsando un botón junto al nombre del archivo)
 
