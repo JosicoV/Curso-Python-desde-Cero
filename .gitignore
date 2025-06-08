@@ -1,0 +1,27 @@
+# Archivo .gitignore básico previsto para futuros proyectos
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos de entorno virtual (si lo usas)
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos personales o sensibles
+*.env
+*.secret
