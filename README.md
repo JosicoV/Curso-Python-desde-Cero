@@ -12,6 +12,9 @@ El repositorio está organizado en carpetas, cada una correspondiendo una semana
 *   **/2nd WEEK - Conditionals and loops**: Condicionales (if, elif, else) y bucles(for, while).
 *   **/3rd WEEK - Functions**: Funciones en Python, qué son y para que se utilizan.
 *   **/4th WEEK - Data structures**: Estructuras de datos en Python (listas, tuplas, diccionarios, conjuntos).
+*   **/5th WEEK - Modules, libraries and files**: Módulos, librerías y archivos en Python. (modulos propios o de Python y acceso sencillo a archivos txt)
+*   **/6th WEEK - Advanced files**: Acceso avanzado a archivos (JSON y CSV).
+*   **/7th WEEK - Python OOP**: Programación orientada a objetos (POO) en Python.
 *   ... (iré añadiendo el resto de carpetas del curso tal y como vaya avanzando)
 *   **/otherDocs**: Carpeta donde incluiré los temarios con la teoría y ejercicios en formato PDF. Además de archivos con pruebas, etc.
 
