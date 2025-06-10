@@ -1,4 +1,4 @@
-# Curso de Node.js desde Cero
+# Curso de Python desde Cero
 
 ¡Bienvenido/a al repositorio de mi curso de Python desde cero!
 
